@@ -1,3 +1,3 @@
-# goit-markup-hw-05
+# goit-markup-hw-06
 
-GoIT - Homework 3 https://marcinbolt.github.io/goit-markup-hw-05/
+GoIT - Homework https://marcinbolt.github.io/goit-markup-hw-06/
