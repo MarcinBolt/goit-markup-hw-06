@@ -33,7 +33,8 @@ body {
 a[href] {
   text-decoration: none;
 }
-button[type='button'] {
+button[type='button'],
+button[type='submit'] {
   cursor: pointer;
 }
 .main-menu a:hover,
